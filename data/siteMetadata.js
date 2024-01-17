@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Matemática com CUSCUZ',
   author: 'Igor Bruno',
   headerTitle: 'Matemática com CUSCUZ',
-  description: 'O site potiguar de matemática, aqui você encontra materiais, vídeos aula, dicas e o blog.',
+  description: 'O site potiguar de matemática, aqui você encontra materiais, vídeo aulas, dicas e o blog do cuscuz.',
   language: 'pt-br',
   theme: 'system', // system, dark or light
   siteUrl: 'https://matematica-com-cuscuz.vercel.app',
