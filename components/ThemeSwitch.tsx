@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import { useTheme } from 'next-themes'
+import { Sun, MoonStar } from 'lucide-react'
 
 const ThemeSwitch = () => {
   const [mounted, setMounted] = useState(false)
