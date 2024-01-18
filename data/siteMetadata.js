@@ -10,11 +10,10 @@ const siteMetadata = {
   siteRepo: 'https://github.com/felipe-sbm/math',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  instagram: 'https://www.instagram.com',
+  email: 'contato.prof.igorbruno@gmail.com',
+  facebook: 'https://www.facebook.com/profile.php?id=100010885745996',
+  youtube: 'https://www.youtube.com/@matematicacomcuscuz',
+  instagram: 'https://www.instagram.com/profigorbrunoocuscuz/',
   locale: 'pr-br',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
